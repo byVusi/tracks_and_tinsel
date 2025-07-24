@@ -48,7 +48,9 @@ header,
 	text-align: center;
 }
 header {
+	max-width: 40rem;
 	height: 20rem;
+	margin: auto;
 	background-image: url("background-image.jpeg");
 	background-repeat: no-repeat;
 	background-size: cover;
